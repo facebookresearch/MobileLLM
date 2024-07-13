@@ -52,6 +52,14 @@ Steps to run:
 ### Others
 The model weights is still under legal review. If you have any questions, feel free to email (zechunliu at meta dot com) and (cszhao at meta dot com)
 
+
+## Training cost 
+It takes the following number of days to train MobileLLM on 1T tokens using 32 NVIDIA A100 80G GPUs.
+| 125M | 350M | 600M | 1B | 1.5B | 
+| --- | --- | --- | --- | --- |
+| ~3 days| ~6 days| ~8 days | ~12 days | ~18 days |
+
+
 ## Results on Zero-shot Common Sense Reasoning tasks
 
 ### MobileLLM-125M
