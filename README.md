@@ -117,7 +117,7 @@ It takes the following number of days to train MobileLLM on 1T tokens using 32 N
 
 ## Acknowledgement
 
-This code is partially based on HuggingFace transformer repo.
+This code is partially based on Hugging Face transformer repo.
 
 ## Contact
 
