@@ -125,6 +125,12 @@ Zechun Liu, Meta Inc (zechunliu at meta dot com)
 
 Changsheng Zhao, Meta Inc (cszhao at meta dot com)
 
+## Relevant Projects
+
+SpinQuant: LLM Quantization with Learned Rotations [[Paper](https://arxiv.org/pdf/2405.16406)] [[Code](https://github.com/facebookresearch/SpinQuant)]
+
+LLM-QAT: Data-Free Quantization Aware Training for Large Language Models [[Paper](https://arxiv.org/pdf/2305.17888)] [[Code](https://github.com/facebookresearch/LLM-QAT)]
+
 ## License
 
 BiT is CC-BY-NC 4.0 licensed as of now.
