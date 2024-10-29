@@ -133,5 +133,5 @@ LLM-QAT: Data-Free Quantization Aware Training for Large Language Models [[Paper
 
 ## License
 
-BiT is CC-BY-NC 4.0 licensed as of now.
+MobileLLM is CC-BY-NC 4.0 licensed as of now.
 
