@@ -72,7 +72,7 @@ It takes the following number of days to train MobileLLM on 1T tokens using 32 N
 | GPT-neo-125M | 40.7 | 24.8 | 61.3 | 62.5 | 41.9 | 29.7 | 31.6 | 50.7 | 42.9 |
 | Pythia-160M | 40.0 | 25.3 | 59.5 | 62.0 | 41.5 | 29.9 | 31.2 | 50.9 | 42.5 |
 | [**MobileLLM-125M**](https://drive.google.com/drive/folders/1fkUcrgoCVB7enpiV9RG2Lfxov2gmzhL9?usp=sharing) | 43.9 | 27.1 | 60.2 | 65.3 | 42.4 | 38.9 | 39.5 | 53.1 | **46.3** |
-| **MobileLLM-LS-125M** | 45.8 | 28.7 | 60.4 | 65.7 | 42.9 | 39.5 | 41.1 | 52.1 | **47.0** |
+| [**MobileLLM-LS-125M**](https://drive.google.com/drive/folders/1GjbyCnysE1OWrtR9pOhV9y9Q00GnnKG7?usp=sharing) | 45.8 | 28.7 | 60.4 | 65.7 | 42.9 | 39.5 | 41.1 | 52.1 | **47.0** |
 
 ### MobileLLM-350M
 
@@ -81,7 +81,7 @@ It takes the following number of days to train MobileLLM on 1T tokens using 32 N
 | OPT-350M | 41.9 | 25.7 | 54.0 | 64.8 | 42.6 | 36.2 | 33.3 | 52.4 | 43.9 |
 | Pythia-410M | 47.1 | 30.3 | 55.3 | 67.2 | 43.1 | 40.1 | 36.2 | 53.4 | 46.6 |
 | [**MobileLLM-350M**](https://drive.google.com/drive/folders/15vTDcZ2GaxnKT_g3U-Q7-doJLxm-RFXv?usp=sharing) | 53.8 | 33.5 | 62.4 | 68.6 | 44.7 | 49.6 | 40.0 | 57.6 | **51.3** |
-| **MobileLLM-LS-350M** | 54.4 | 32.5 | 62.8 | 69.8 | 44.1 | 50.6 | 45.8 | 57.2 | **52.1** | 
+| [**MobileLLM-LS-350M**](https://drive.google.com/drive/folders/1Ak1CmFRsHdiApz7oh9zVND-XxzzWc9SY?usp=sharing) | 54.4 | 32.5 | 62.8 | 69.8 | 44.1 | 50.6 | 45.8 | 57.2 | **52.1** | 
 
 ### MobileLLM-600M
 
