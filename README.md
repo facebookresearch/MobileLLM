@@ -115,7 +115,7 @@ It takes the following number of days to train MobileLLM on 1T tokens using 32 N
 | OPT-2.7B | 56.6 | 34.6 | 61.8 | 74.5 | 45.6 | 60.2 | 48.2 | 59.6 | 55.1 | 
 | Pythia-2.8B | 59.4 | 38.9 | 66.1 |  73.8 | 44.5 | 59.6 | 45.0 | 59.4 | 55.8 | 
 | BLOOM-3B | 55.1 | 33.6 | 62.1 | 70.5 | 43.2 | 53.9 | 41.6 | 58.2 | 52.3 | 
-| **MobileLLM-1.5B** | 67.5 |  40.9 |  65.7 | 74.8 |  46.4 | 64.5 | 50.5 | 64.7 | **59.4** | 
+| [**MobileLLM-1.5B**](https://drive.google.com/drive/folders/16kqBjvwJOe80dvVAjpYdqL9Addqvf82u?usp=sharing) | 67.5 |  40.9 |  65.7 | 74.8 |  46.4 | 64.5 | 50.5 | 64.7 | **59.4** | 
 
 ## Acknowledgement
 
