@@ -66,7 +66,7 @@ It takes the following number of days to train MobileLLM on 1T tokens using 32 N
 
 ### MobileLLM-125M
 
-| model | boolq | piqa | siqa | hellaswag | winogrande | arc_easy | arc_challenge | obqa | avg. |
+| model | arc_easy | arc_challenge | boolq | piqa | siqa | hellaswag | obqa | winogrande | avg. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | OPT-125M | 41.3 | 25.2 | 57.5 | 62.0 | 41.9 | 31.1 | 31.2 | 50.8 | 42.6 |
 | GPT-neo-125M | 40.7 | 24.8 | 61.3 | 62.5 | 41.9 | 29.7 | 31.6 | 50.7 | 42.9 |
@@ -76,7 +76,7 @@ It takes the following number of days to train MobileLLM on 1T tokens using 32 N
 
 ### MobileLLM-350M
 
-| model | boolq | piqa | siqa | hellaswag | winogrande | arc_easy | arc_challenge | obqa | avg. |
+| model | arc_easy | arc_challenge | boolq | piqa | siqa | hellaswag | obqa | winogrande | avg. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | OPT-350M | 41.9 | 25.7 | 54.0 | 64.8 | 42.6 | 36.2 | 33.3 | 52.4 | 43.9 |
 | Pythia-410M | 47.1 | 30.3 | 55.3 | 67.2 | 43.1 | 40.1 | 36.2 | 53.4 | 46.6 |
@@ -85,7 +85,7 @@ It takes the following number of days to train MobileLLM on 1T tokens using 32 N
 
 ### MobileLLM-600M
 
-| model | boolq | piqa | siqa | hellaswag | winogrande | arc_easy | arc_challenge | obqa | avg. |
+| model | arc_easy | arc_challenge | boolq | piqa | siqa | hellaswag | obqa | winogrande | avg. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Qwen1.5-500M | 54.7 | 32.1 | 46.9 | 68.9 | 46.0 |  48.8 | 37.7 | 55.0 | 48.8 | 
 | BLOOM-560M | 43.7 | 27.5 | 53.7 | 65.1 | 42.5 | 36.5 | 32.6 | 52.2 | 44.2 | 
@@ -94,7 +94,7 @@ It takes the following number of days to train MobileLLM on 1T tokens using 32 N
 
 ### MobileLLM-1B
 
-| model | boolq | piqa | siqa | hellaswag | winogrande | arc_easy | arc_challenge | obqa | avg. |
+| model | arc_easy | arc_challenge | boolq | piqa | siqa | hellaswag | obqa | winogrande | avg. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pythia-1B | 49.9 | 30.4 | 58.7 | 69.2 | 43.3 | 47.4 | 38.6 | 52.2 | 48.7 | 
 | MobiLlama-1B | 59.7 | 38.4 | 59.2 | 74.5 | 44.9 | 62.0 | 43.7 | 59.0 | 55.2 | 
@@ -105,7 +105,7 @@ It takes the following number of days to train MobileLLM on 1T tokens using 32 N
 
 ### MobileLLM-1.5B
 
-| model | boolq | piqa | siqa | hellaswag | winogrande | arc_easy | arc_challenge | obqa | avg. |
+| model | arc_easy | arc_challenge | boolq | piqa | siqa | hellaswag | obqa | winogrande | avg. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | GPT-neo-1.3B | 51.3 | 33.0 | 61.8 | 70.9 | 43.7 | 48.6 | 41.2 | 54.5 | 50.6 | 
 | OPT-1.3B | 54.4 | 31.7 | 58.4 | 71.5 | 44.7 | 53.7 | 44.6 | 59.1 | 52.3 | 
