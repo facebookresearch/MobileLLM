@@ -71,8 +71,8 @@ It takes the following number of days to train MobileLLM on 1T tokens using 32 N
 | OPT-125M | 41.3 | 25.2 | 57.5 | 62.0 | 41.9 | 31.1 | 31.2 | 50.8 | 42.6 |
 | GPT-neo-125M | 40.7 | 24.8 | 61.3 | 62.5 | 41.9 | 29.7 | 31.6 | 50.7 | 42.9 |
 | Pythia-160M | 40.0 | 25.3 | 59.5 | 62.0 | 41.5 | 29.9 | 31.2 | 50.9 | 42.5 |
-| [**MobileLLM-125M**](https://drive.google.com/drive/folders/1fkUcrgoCVB7enpiV9RG2Lfxov2gmzhL9?usp=sharing) | 43.9 | 27.1 | 60.2 | 65.3 | 42.4 | 38.9 | 39.5 | 53.1 | **46.3** |
-| [**MobileLLM-LS-125M**](https://drive.google.com/drive/folders/1GjbyCnysE1OWrtR9pOhV9y9Q00GnnKG7?usp=sharing) | 45.8 | 28.7 | 60.4 | 65.7 | 42.9 | 39.5 | 41.1 | 52.1 | **47.0** |
+| **MobileLLM-125M** | 43.9 | 27.1 | 60.2 | 65.3 | 42.4 | 38.9 | 39.5 | 53.1 | **46.3** |
+| **MobileLLM-LS-125M** | 45.8 | 28.7 | 60.4 | 65.7 | 42.9 | 39.5 | 41.1 | 52.1 | **47.0** |
 
 ### MobileLLM-350M
 
@@ -80,8 +80,8 @@ It takes the following number of days to train MobileLLM on 1T tokens using 32 N
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | OPT-350M | 41.9 | 25.7 | 54.0 | 64.8 | 42.6 | 36.2 | 33.3 | 52.4 | 43.9 |
 | Pythia-410M | 47.1 | 30.3 | 55.3 | 67.2 | 43.1 | 40.1 | 36.2 | 53.4 | 46.6 |
-| [**MobileLLM-350M**](https://drive.google.com/drive/folders/15vTDcZ2GaxnKT_g3U-Q7-doJLxm-RFXv?usp=sharing) | 53.8 | 33.5 | 62.4 | 68.6 | 44.7 | 49.6 | 40.0 | 57.6 | **51.3** |
-| [**MobileLLM-LS-350M**](https://drive.google.com/drive/folders/1Ak1CmFRsHdiApz7oh9zVND-XxzzWc9SY?usp=sharing) | 54.4 | 32.5 | 62.8 | 69.8 | 44.1 | 50.6 | 45.8 | 57.2 | **52.1** | 
+| **MobileLLM-350M** | 53.8 | 33.5 | 62.4 | 68.6 | 44.7 | 49.6 | 40.0 | 57.6 | **51.3** |
+| **MobileLLM-LS-350M** | 54.4 | 32.5 | 62.8 | 69.8 | 44.1 | 50.6 | 45.8 | 57.2 | **52.1** | 
 
 ### MobileLLM-600M
 
@@ -90,7 +90,7 @@ It takes the following number of days to train MobileLLM on 1T tokens using 32 N
 | Qwen1.5-500M | 54.7 | 32.1 | 46.9 | 68.9 | 46.0 |  48.8 | 37.7 | 55.0 | 48.8 | 
 | BLOOM-560M | 43.7 | 27.5 | 53.7 | 65.1 | 42.5 | 36.5 | 32.6 | 52.2 | 44.2 | 
 | MobiLlama-800M | 52.0 | 31.7 | 54.6 | 73.0 |  43.3 | 52.3 | 42.5 | 56.3 | 50.7 | 
-| [**MobileLLM-600M**](https://drive.google.com/drive/folders/1OIx8NEupWChS5yW0Dnlz1YCjtem2GOF-?usp=sharing) | 58.1 |  35.8 |  61.0 |  72.3 | 44.9 | 55.9 |  47.9 |  58.6 | **54.3** |  
+| **MobileLLM-600M** | 58.1 |  35.8 |  61.0 |  72.3 | 44.9 | 55.9 |  47.9 |  58.6 | **54.3** |  
 
 ### MobileLLM-1B
 
@@ -101,7 +101,7 @@ It takes the following number of days to train MobileLLM on 1T tokens using 32 N
 | Falcon-1B | 59.5 | 38.4 | 63.9 | 74.6 |  44.6 | 62.9 |  45.6 | 60.9 | 56.3 | 
 | BLOOM-1.1B | 47.6 | 27.3 | 58.6 | 67.0 | 42.4 | 42.2 | 36.6 | 53.8 | 46.9 | 
 | TinyLlama-1.1B | 59.2 | 37.1 | 58.1 | 72.9 | 43.9 | 59.1 | 44.7 | 58.8 | 54.2 | 
-| [**MobileLLM-1B**](https://drive.google.com/drive/folders/1NKOK_EHlPNGSJPaZy51d2LpvLHemH4G8?usp=sharing) | 63.0 |  39.0 |  66.7 |  74.4 | 45.0 |  61.4 | 46.8 | 62.3 | **57.3** |  
+| **MobileLLM-1B** | 63.0 |  39.0 |  66.7 |  74.4 | 45.0 |  61.4 | 46.8 | 62.3 | **57.3** |  
 
 ### MobileLLM-1.5B
 
@@ -115,7 +115,7 @@ It takes the following number of days to train MobileLLM on 1T tokens using 32 N
 | OPT-2.7B | 56.6 | 34.6 | 61.8 | 74.5 | 45.6 | 60.2 | 48.2 | 59.6 | 55.1 | 
 | Pythia-2.8B | 59.4 | 38.9 | 66.1 |  73.8 | 44.5 | 59.6 | 45.0 | 59.4 | 55.8 | 
 | BLOOM-3B | 55.1 | 33.6 | 62.1 | 70.5 | 43.2 | 53.9 | 41.6 | 58.2 | 52.3 | 
-| [**MobileLLM-1.5B**](https://drive.google.com/drive/folders/16kqBjvwJOe80dvVAjpYdqL9Addqvf82u?usp=sharing) | 67.5 |  40.9 |  65.7 | 74.8 |  46.4 | 64.5 | 50.5 | 64.7 | **59.4** | 
+| **MobileLLM-1.5B** | 67.5 |  40.9 |  65.7 | 74.8 |  46.4 | 64.5 | 50.5 | 64.7 | **59.4** | 
 
 ## Acknowledgement
 
@@ -135,4 +135,4 @@ LLM-QAT: Data-Free Quantization Aware Training for Large Language Models [[Paper
 
 ## License
 
-MobileLLM is CC-BY-NC 4.0 licensed as of now.
+MobileLLM is FAIR NC licensed as of now.
