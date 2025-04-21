@@ -9,7 +9,7 @@ In this work, we comprehensively consider multiple design factors to obtain high
 </div>
 
 ## News
-- Oct 30, 2024: 🚀 MobileLLM models are publicly available on [GitHub](https://drive.google.com/drive/folders/1ALTBk76FiQhcadcB5OxjGR-uhnUt9wYD?usp=sharing) and [HuggingFace](https://huggingface.co/collections/facebook/mobilellm-6722be18cb86c20ebe113e95)
+- Oct 30, 2024: 🚀 MobileLLM models are publicly available on [HuggingFace](https://huggingface.co/collections/facebook/mobilellm-6722be18cb86c20ebe113e95)
 
 ## Citation
 
@@ -52,7 +52,7 @@ Steps to run:
 * Run `bash pretrain.sh `
 
 ### Evaluation on Wiki
-Download the models [here](https://drive.google.com/drive/folders/1ALTBk76FiQhcadcB5OxjGR-uhnUt9wYD?usp=sharing) and update the checkpoint path in eval.sh
+Download the models and update the checkpoint path in eval.sh
 * Run `bash eval.sh `
 
 ## Training cost 
